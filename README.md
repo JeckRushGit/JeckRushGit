@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1000)]
+![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1000)
 <h1 align="center">Hi 👋, I'm Giacomo</h1>
 <h3 align="center">I'm a 23 years old student in Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
