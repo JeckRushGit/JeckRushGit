@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giacomo</h1>
-<h3 align="center">I'm a 23 years old student in Italy</h3>
+<h3 align="center">I'm a 24 years old student in Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeckrushgit&label=Profile%20views&color=0e75b6&style=flat" alt="jeckrushgit" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **giacomodamosso@gmail.com**
 
